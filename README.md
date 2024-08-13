@@ -1,11 +1,17 @@
-👋 Greetings, I'm Suraphel Birhane, an experienced iOS developer excited to connect!
-👀 With a wealth of experience in iOS development, I'm deeply passionate about crafting elegant solutions.
-🌱 Currently, I'm honing my skills further in Swift and diving into advanced concepts within UIKit.
-💼 Having worked on various projects, from sleek user interfaces to complex backend integrations, I thrive on challenges and innovation.
-🚀 My goal is to continually push the boundaries of what's possible in the iOS ecosystem and deliver exceptional experiences to users.
-📫 Let's chat! Reach out to me at suraphelbirhane@gmail.com, and let's explore opportunities to collaborate and create impactful applications together!
+# Hi there! 👋
 
-<!---
-suraphelb/suraphelb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm **Suraphel Birhane**, a dedicated iOS developer with a passion for creating elegant and efficient solutions.
+
+## **About Me**
+
+- **Experienced iOS Developer**: With a solid background in iOS development, I enjoy crafting beautiful and functional applications.
+
+- **Current Focus**: I'm deepening my expertise in Swift and exploring advanced concepts within UIKit and SwiftUI.
+
+- **Project Experience**: From designing sleek user interfaces to integrating complex backends, I embrace challenges and strive for innovation.
+
+- **Vision**: My aim is to push the limits of what's possible in the iOS ecosystem and deliver exceptional user experiences.
+
+## **Let's Connect!**
+
+I'm always open to discussing new ideas and opportunities. Feel free to reach out to me at [suraphelbirhane@gmail.com](mailto:suraphelbirhane@gmail.com). Let’s explore how we can collaborate and build impactful applications together!
